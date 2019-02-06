@@ -1,6 +1,9 @@
 # Lecture 1
+### Module Info
+**Lecturer:** Dr Charlotte Robinson
+
 ### Assesment
-**Coursework:** Week 8, 12%; Week 12, 28%; = 40%
+**Coursework:** Week 8, 12% | Week 12, 28% | = 40%  
 **Exam:** 60%
 
 ### Contents
